@@ -1,9 +1,2 @@
-const a = 1;
-
-function foo(name) {
-  const lastname = name;
-}
-
-const x = 200;
-
-console.log(x);
+console.log("HelloWorld");
+x = 1;
